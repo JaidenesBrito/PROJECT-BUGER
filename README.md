@@ -16,3 +16,12 @@
 <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="License" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
+
+
+
+<h1>Características</h1>
+
+* Cria lista de pedidos e nome do cliente
+* Guarda os pedidos e nome dos clientes
+* Deleta os pedidos e nome dos clientes
+
